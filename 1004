@@ -6,6 +6,6 @@ int main() {
     PROD=X*Y;
     
     printf("PROD = %d\n", PROD);
-    
+   
     return 0;
 }
