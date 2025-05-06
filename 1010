@@ -7,7 +7,7 @@ int main() {
     scanf("%lf", &valora);
     scanf("%d", &qtda);
     scanf("%lf", &unia);
-    scanf("%lf", &valorb);
+    scanf("%lf", &valorb); 
     scanf("%d", &qtdb);
     scanf("%lf", &unib);
     scanf("%lf", &total);
