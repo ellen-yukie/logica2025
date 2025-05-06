@@ -2,7 +2,6 @@
  
 int main() {
     double A, n, R;
-
     scanf("%lf", &R);
     
     n=3.14159;
