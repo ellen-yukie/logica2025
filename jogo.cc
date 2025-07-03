@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 
 int deucerto(int sudoku[9][9]) {
